@@ -106,6 +106,7 @@ npm start
 
 ## Module Description
 #### Login/Signup
+![Login Page](https://media.giphy.com/media/NTP6jIAiYkwAUM7PR6/login.gif)
 #### Landing Page
 #### Employer Landing Page
 #### Calendar
